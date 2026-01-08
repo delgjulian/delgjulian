@@ -2,7 +2,7 @@ Julián Alberto Delgadillo Marín – Geologist | Applied Economics & Data Scien
 
 ---
 
-##👋 About Me
+## 👋 About Me
 
 I am a Geologist with a strong background in applied economics, econometrics, and data science, combining Earth Science expertise with quantitative and computational methods. I have experience in geological exploration, geospatial analysis, and digital transformation projects, and I am currently completing an M.Sc. in Applied Economics. My interests lie at the intersection of Earth Sciences, applied econometrics, and data-driven decision making, with a growing focus on research-oriented and reproducible workflows.
 
